@@ -4,7 +4,7 @@ This test is all about finding the shortest route. Given we have triangle, find 
 For example, given the following triangle as an array.
 
 ```
-var triangle = [
+triangle = [
      [2],
     [3,4],
    [6,5,7],
