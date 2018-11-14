@@ -3,7 +3,8 @@ This test is all about finding the shortest route. Given we have triangle, find 
 
 For example, given the following triangle as an array.
 
-``` var triangle = [
+```
+var triangle = [
      [2],
     [3,4],
    [6,5,7],
@@ -15,7 +16,8 @@ The minimum path sum from top to bottom is 11 (i.e., 2 + 3 + 5 + 1 = 11).
 
 Your code should work with the following test cases..
 
-``` var triangle1 = [
+```
+triangle1 = [
      [1],
     [4,3],
    [8,2,6],
@@ -23,7 +25,8 @@ Your code should work with the following test cases..
 ]
 ```
 
-``` var triangle2 = [
+```
+triangle2 = [
      [3],
     [6,4],
    [3,4,7],
@@ -31,7 +34,8 @@ Your code should work with the following test cases..
 ]
 ```
 
-``` var triangle3 = [
+```
+triangle3 = [
      [2],
     [9,6],
    [4,5,8],
@@ -41,6 +45,6 @@ Your code should work with the following test cases..
 
 but if you are feeling really clever, get it to work with these
 
-`var triangle5 = [[2], [3,4], [6,5,7], [4,1,2,3], [4,2,8,1,2],[5,4,8,7,3,2]]`
+`triangle5 = [[2], [3,4], [6,5,7], [4,1,2,3], [4,2,8,1,2],[5,4,8,7,3,2]]`
 
-`var triangle6 = [[2], [3, 4], [6, 5, 7], [4, 1, 2, 3], [4, 2, 2, 1, 2], [5, 4, 8, 4, 3, 2], [6, 5, 9, 1, 4, 3, 2]]`
+`triangle6 = [[2], [3, 4], [6, 5, 7], [4, 1, 2, 3], [4, 2, 2, 1, 2], [5, 4, 8, 4, 3, 2], [6, 5, 9, 1, 4, 3, 2]]`
